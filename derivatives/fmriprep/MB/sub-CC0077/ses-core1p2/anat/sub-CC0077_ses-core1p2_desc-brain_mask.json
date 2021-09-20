@@ -1,0 +1,7 @@
+{
+  "RawSources": [
+    "sub-CC0077/ses-core1p2/anat/sub-CC0077_ses-core1p2_run-01_T1w.nii.gz",
+    "sub-CC0077/ses-core1p2/anat/sub-CC0077_ses-core1p2_run-02_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}
