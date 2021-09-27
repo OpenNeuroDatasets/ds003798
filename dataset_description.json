@@ -1,6 +1,22 @@
 {
     "Name": "Caltech Conte Core MRI",
     "BIDSVersion": "1.6.0",
-    "License": "This data is made available under the Creative Commons BY-SA 4.0 International License.",
-    "Authors" : ["Dorit Kliemann","Ralph Adolphs", "Tim Armstrong","Paola Galdi","David A. Kahn","Tessa Rusch","A. Zeynep Enkavi","Deuhua Liang","Steven Lograsso","Wenying Zhu","Rona Yu","Remya Nair*", "Lynn K. Paul*","J. Michael Tyszka*"]
+    "License": "CC0",
+    "Authors": [
+        "Dorit Kliemann",
+        "Ralph Adolphs",
+        "Tim Armstrong",
+        "Paola Galdi",
+        "David A. Kahn",
+        "Tessa Rusch",
+        "A. Zeynep Enkavi",
+        "Deuhua Liang",
+        "Steven Lograsso",
+        "Wenying Zhu",
+        "Rona Yu",
+        "Remya Nair*",
+        "Lynn K. Paul*",
+        "J. Michael Tyszka*",
+        "* Joint senior authorship"
+    ]
 }
