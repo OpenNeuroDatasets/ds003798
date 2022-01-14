@@ -1,9 +1,0 @@
-{
-    "Name": "Caltech Conte Core MRI",
-    "BIDSVersion": "1.6.0",
-    "License": "CC0",
-    "Authors": [
-        "Remya Nair"
-    ],
-    "DatasetDOI": "10.18112/openneuro.ds003798.v1.0.0"
-}
